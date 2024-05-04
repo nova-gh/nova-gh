@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nova.</h1>
 <h3 align="center">A passionate Software Developer from California.</h3>
 
-- 🌱 I’m currently learning **React Native and Next.js 13.**
-
 - 👨‍💻 All of my projects are available at [www.novagh.com](www.novagh.com)
 
 - 💬 Ask me about **React, Next.js, Tailwind.css**
